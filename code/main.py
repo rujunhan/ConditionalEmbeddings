@@ -6,14 +6,12 @@ import torch.nn.functional as F
 import torch.optim as optim
 from torch.autograd import Variable
 from torch.nn import Parameter
-import os
 import math
 from collections import OrderedDict
 import time 
 import matplotlib.pyplot as plt
 import argparse
 import random
-import shutil
 from BBP import ConditinalBBP
 from datastream import load_data
 from utils import *
