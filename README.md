@@ -9,3 +9,6 @@ Step 1: Data Processing
 
 Step 2:
         Run main.py to estimate the model. Conditional Bayes-by-Backprop model implemenation is in the BBP.py file. This step will save the best model object for downstream analysis
+	
+	
+EMNLP 2018 Publication: http://aclweb.org/anthology/D18-1527
